@@ -1,6 +1,6 @@
 # MTE241 RTOS
 Real-Time Kernel
-By Kimathi and Will
+By Will and Kimathi
 
 Hardware:
 - ARM Cortex-M3 processor
